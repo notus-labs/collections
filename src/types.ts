@@ -1,5 +1,6 @@
 export interface CollectionMetadata {
   // Identifiers
+  slug: string;
   tradeportId: string;
   structType: string;
 
