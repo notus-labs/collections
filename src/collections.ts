@@ -115,7 +115,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     iconUrl: '',
   },
   {
-    slug: 'deduilabs',
+    slug: 'desuilabs',
     tradeportId: '5830cc88-e420-43bb-a309-16b3ae2bf48d',
     structType:
       '0x4edaf43ada89b42ba4dee9fbf74a4dee3eb01f3cfd311d4fb2c6946f87952e51::dlab::Dlab',
