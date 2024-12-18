@@ -16,4 +16,7 @@ export interface CollectionMetadata {
   // Visual Assets
   backgroundUrl: string;
   iconUrl: string;
+
+  // Featured
+  featured?: boolean;
 }
