@@ -135,4 +135,17 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     iconUrl:
       'https://suivision.mypinata.cloud/ipfs/bafybeictvrpb2vdek7i3gmfihnwrl4j6egoht6em36slnbghq7jqdl7ul4/35.png?pinataGatewayToken=XRz-H79S4Su_2PfKu9Ka-W7djbN8b0emIpVtsLxkbnebfobn-IIl-y6Elzyza7p-&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
   },
+  {
+    slug: 'sweeb',
+    tradeportId: 'e15727d4-4cfd-44de-8b71-abe103c1549a',
+    structType:
+      '0x256cf2cbe798fd0458fa04464a7b6e127d57f754535d20b96243e231c1964910::SWEEBS::SweebNFT',
+    title: 'Sweeb #',
+    description: 'The Culture Layer of Sui',
+    website: '',
+    createdAt: new Date('2024-17-12T06:47:32'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://tradeport.mypinata.cloud/ipfs/QmRWggLeqkQ7UwFUbduukNkCzSM7bkb6Zu6J1teDnXZCiW?pinataGatewayToken=sd9Ceh-eJIQ43PRB3JW6QGkHAr8-cxGhhjDF0Agxwd_X7N4_reLPQXZSP_vUethU&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
+  },
 ];
