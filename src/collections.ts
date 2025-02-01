@@ -149,4 +149,19 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
       'https://tradeport.mypinata.cloud/ipfs/QmRWggLeqkQ7UwFUbduukNkCzSM7bkb6Zu6J1teDnXZCiW?pinataGatewayToken=sd9Ceh-eJIQ43PRB3JW6QGkHAr8-cxGhhjDF0Agxwd_X7N4_reLPQXZSP_vUethU&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
     featured: true,
   },
+  {
+    slug: 'uc-esports',
+    tradeportId: '09d26434-4449-45eb-b848-89c30bec2e12',
+    structType:
+      '0x51e1abc7dfe02e348a3778a642ef658dd5c016116ee2e8813c4e3a12f975d88e::SWEEBS::SweebNFT',
+    title: 'Unchained',
+    description:
+      'A Group of Wild West Sheriffs looking to build an esports empire on Web3',
+    website: 'https://x.com/UnchainedOnSui',
+    createdAt: new Date('2024-02-02T09:49:58'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://tradeport.mypinata.cloud/ipfs/QmRPkX43x7hg1AdXaSCHCnuiPuVq8dG9W9WUExEJeSeBem?pinataGatewayToken=sd9Ceh-eJIQ43PRB3JW6QGkHAr8-cxGhhjDF0Agxwd_X7N4_reLPQXZSP_vUethU&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
+    featured: true,
+  },
 ];
