@@ -143,7 +143,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     title: 'Sweebs',
     description: 'The Culture Layer of Sui',
     website: 'https://www.sweebs.xyz/',
-    createdAt: new Date('2024-17-12T06:47:32'),
+    createdAt: new Date('2024-12-17T06:47:32'),
     backgroundUrl: '',
     iconUrl:
       'https://tradeport.mypinata.cloud/ipfs/QmRWggLeqkQ7UwFUbduukNkCzSM7bkb6Zu6J1teDnXZCiW?pinataGatewayToken=sd9Ceh-eJIQ43PRB3JW6QGkHAr8-cxGhhjDF0Agxwd_X7N4_reLPQXZSP_vUethU&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
