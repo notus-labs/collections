@@ -153,7 +153,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     slug: 'uc-esports',
     tradeportId: '09d26434-4449-45eb-b848-89c30bec2e12',
     structType:
-      '0x51e1abc7dfe02e348a3778a642ef658dd5c016116ee2e8813c4e3a12f975d88e::SWEEBS::SweebNFT',
+      '0xf78977221c9420f9a8ecf39b6bc28f7a576f92179bc29ecc34edca80ac7d9c55::tradeport::Nft<0x51e1abc7dfe02e348a3778a642ef658dd5c016116ee2e8813c4e3a12f975d88e::nft::UC>',
     title: 'Unchained',
     description:
       'A Group of Wild West Sheriffs looking to build an esports empire on Web3',
