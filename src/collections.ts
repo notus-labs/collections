@@ -164,4 +164,19 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
       'https://tradeport.mypinata.cloud/ipfs/QmRPkX43x7hg1AdXaSCHCnuiPuVq8dG9W9WUExEJeSeBem?pinataGatewayToken=sd9Ceh-eJIQ43PRB3JW6QGkHAr8-cxGhhjDF0Agxwd_X7N4_reLPQXZSP_vUethU&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
     featured: true,
   },
+  {
+    slug: 'satoshi-panda',
+    tradeportId: '6580692d-b655-4bab-b5f5-db1ff687a383',
+    structType:
+      '0x801c3171565c5cec3e5691a527636096004b2739d671493eb152b78e99d34825::token::SuitoshiPanda',
+    title: 'Satoshi Panda',
+    description:
+      'Representing fun, joy, and wonderment, and a nod to Sui and Satoshi Nakamoto, Suitoshi Panda is a high-vibed and inspiring expression of tokenized upliftment.',
+    website: 'https://x.com/UnchainedOnSui',
+    createdAt: new Date('2024-02-08T21:55:30'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://ipfs.io/ipfs/QmWVBf5RzNJxgR3V9vQivofitj6Z3SWnLFBKiah1TZ3umT',
+    featured: true,
+  },
 ];
