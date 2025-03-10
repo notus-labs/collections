@@ -1,6 +1,6 @@
 {
   "name": "@patara-app/collections",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Patara Collections List",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
