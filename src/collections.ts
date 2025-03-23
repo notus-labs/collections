@@ -162,22 +162,22 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     backgroundUrl: '',
     iconUrl:
       'https://suivision.mypinata.cloud/ipfs/QmRPkX43x7hg1AdXaSCHCnuiPuVq8dG9W9WUExEJeSeBem?pinataGatewayToken=XRz-H79S4Su_2PfKu9Ka-W7djbN8b0emIpVtsLxkbnebfobn-IIl-y6Elzyza7p-&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
-    featured: true,
+    featured: false,
   },
-  {
-    slug: 'worm',
-    tradeportId: '5125ec47-6ddd-40f3-bbd2-2f25d4d78730',
-    structType:
-      '0x356d0c33487d727fa31198d1ac9e082a5b57a89c6b56dd37fdf9d54db9d9f98d::nft::BirdNFT',
-    title: 'WORM - BIRDS GameFi Asset',
-    description:
-      'The leading memecoin & GameFi Telegram mini-app on the SuiNetwork',
-    website: 'https://birds.dog',
-    createdAt: new Date('2024-11-16T14:32:16'),
-    backgroundUrl: '',
-    iconUrl: 'https://asset.birds.dog/img/1/1.png',
-    featured: true,
-  },
+  // {
+  //   slug: 'worm',
+  //   tradeportId: '5125ec47-6ddd-40f3-bbd2-2f25d4d78730',
+  //   structType:
+  //     '0x356d0c33487d727fa31198d1ac9e082a5b57a89c6b56dd37fdf9d54db9d9f98d::nft::BirdNFT',
+  //   title: 'WORM - BIRDS GameFi Asset',
+  //   description:
+  //     'The leading memecoin & GameFi Telegram mini-app on the SuiNetwork',
+  //   website: 'https://birds.dog',
+  //   createdAt: new Date('2024-11-16T14:32:16'),
+  //   backgroundUrl: '',
+  //   iconUrl: 'https://asset.birds.dog/img/1/1.png',
+  //   featured: true,
+  // },
   {
     slug: 'suitoshi-panda',
     tradeportId: '6580692d-b655-4bab-b5f5-db1ff687a383',
