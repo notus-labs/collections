@@ -27,7 +27,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     createdAt: new Date('2024-08-21T13:12:10'),
     backgroundUrl: '',
     iconUrl:
-      'https://tradeport.mypinata.cloud/ipfs/QmQRE6ymYcd7Z3kMRPLDGRSyW4zKDMGRbom5EaFVXijpiX?pinataGatewayToken=sd9Ceh-eJIQ43PRB3JW6QGkHAr8-cxGhhjDF0Agxwd_X7N4_reLPQXZSP_vUethU&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
+      'https://suivision.mypinata.cloud/ipfs/QmQRE6ymYcd7Z3kMRPLDGRSyW4zKDMGRbom5EaFVXijpiX?pinataGatewayToken=XRz-H79S4Su_2PfKu9Ka-W7djbN8b0emIpVtsLxkbnebfobn-IIl-y6Elzyza7p-&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
   },
   {
     slug: 'egg',
@@ -40,7 +40,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     createdAt: new Date('2024-01-24T04:43:01'),
     backgroundUrl: '',
     iconUrl:
-      'https://tradeport.mypinata.cloud/ipfs/bafybeibhwaakw2mqgchdbpao2neb3wkvhnbvw2hcscl5njkj3c7hdouer4?pinataGatewayToken=sd9Ceh-eJIQ43PRB3JW6QGkHAr8-cxGhhjDF0Agxwd_X7N4_reLPQXZSP_vUethU&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
+      'https://suivision.mypinata.cloud/ipfs/bafybeibhwaakw2mqgchdbpao2neb3wkvhnbvw2hcscl5njkj3c7hdouer4?pinataGatewayToken=XRz-H79S4Su_2PfKu9Ka-W7djbN8b0emIpVtsLxkbnebfobn-IIl-y6Elzyza7p-&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
   },
   {
     slug: 'prime-machin',
@@ -66,7 +66,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     createdAt: new Date('2023-05-04T13:32:02'),
     backgroundUrl: '',
     iconUrl:
-      'https://tradeport.mypinata.cloud/ipfs/QmaBCGFXRrNbnf1Sr1r6yAXj2QsQjQzQhCJUUHWt9NwoPD?pinataGatewayToken=sd9Ceh-eJIQ43PRB3JW6QGkHAr8-cxGhhjDF0Agxwd_X7N4_reLPQXZSP_vUethU&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
+      'https://suivision.mypinata.cloud/ipfs/QmaBCGFXRrNbnf1Sr1r6yAXj2QsQjQzQhCJUUHWt9NwoPD?pinataGatewayToken=XRz-H79S4Su_2PfKu9Ka-W7djbN8b0emIpVtsLxkbnebfobn-IIl-y6Elzyza7p-&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
   },
   {
     slug: 'aeon',
@@ -92,7 +92,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     createdAt: new Date('2024-10-02T14:55:03'),
     backgroundUrl: '',
     iconUrl:
-      'https://tradeport.mypinata.cloud/ipfs/QmPmNdHofDDpCC2qAKUReVussmKergGa8GyNakr96qNfz3?pinataGatewayToken=sd9Ceh-eJIQ43PRB3JW6QGkHAr8-cxGhhjDF0Agxwd_X7N4_reLPQXZSP_vUethU&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
+      'https://suivision.mypinata.cloud/ipfs/QmPmNdHofDDpCC2qAKUReVussmKergGa8GyNakr96qNfz3?pinataGatewayToken=XRz-H79S4Su_2PfKu9Ka-W7djbN8b0emIpVtsLxkbnebfobn-IIl-y6Elzyza7p-&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
   },
   {
     slug: 'cosmocadia',
@@ -106,7 +106,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     createdAt: new Date('2024-05-24T15:42:31'),
     backgroundUrl: '',
     iconUrl:
-      'https://tradeport.mypinata.cloud/ipfs/QmPNrw19YCdn6GAZdn4AviS4D1tCQXRNRR3bJeCTvXw29i/Cosmocadia%20Gen1_73.jpg?pinataGatewayToken=sd9Ceh-eJIQ43PRB3JW6QGkHAr8-cxGhhjDF0Agxwd_X7N4_reLPQXZSP_vUethU&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
+      'https://suivision.mypinata.cloud/ipfs/QmPNrw19YCdn6GAZdn4AviS4D1tCQXRNRR3bJeCTvXw29i/Cosmocadia%20Gen1_73.jpg?pinataGatewayToken=XRz-H79S4Su_2PfKu9Ka-W7djbN8b0emIpVtsLxkbnebfobn-IIl-y6Elzyza7p-&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
   },
   {
     slug: 'enforcer-machin',
@@ -120,7 +120,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     createdAt: new Date('2024-05-17T12:20:39'),
     backgroundUrl: '',
     iconUrl:
-      'https://tradeport.mypinata.cloud/ipfs/Qmcu1DtqdLQtwBZTh1fPCptGJVzHobLGLMdG5kQJbiYxcg?pinataGatewayToken=sd9Ceh-eJIQ43PRB3JW6QGkHAr8-cxGhhjDF0Agxwd_X7N4_reLPQXZSP_vUethU&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
+      'https://suivision.mypinata.cloud/ipfs/Qmcu1DtqdLQtwBZTh1fPCptGJVzHobLGLMdG5kQJbiYxcg?pinataGatewayToken=XRz-H79S4Su_2PfKu9Ka-W7djbN8b0emIpVtsLxkbnebfobn-IIl-y6Elzyza7p-&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
   },
   {
     slug: 'desuilabs',
@@ -146,7 +146,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     createdAt: new Date('2024-12-17T06:47:32'),
     backgroundUrl: '',
     iconUrl:
-      'https://tradeport.mypinata.cloud/ipfs/QmRWggLeqkQ7UwFUbduukNkCzSM7bkb6Zu6J1teDnXZCiW?pinataGatewayToken=sd9Ceh-eJIQ43PRB3JW6QGkHAr8-cxGhhjDF0Agxwd_X7N4_reLPQXZSP_vUethU&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
+      'https://suivision.mypinata.cloud/ipfs/QmRWggLeqkQ7UwFUbduukNkCzSM7bkb6Zu6J1teDnXZCiW?pinataGatewayToken=XRz-H79S4Su_2PfKu9Ka-W7djbN8b0emIpVtsLxkbnebfobn-IIl-y6Elzyza7p-&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
     featured: true,
   },
   {
@@ -161,7 +161,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     createdAt: new Date('2024-02-02T09:49:58'),
     backgroundUrl: '',
     iconUrl:
-      'https://tradeport.mypinata.cloud/ipfs/QmRPkX43x7hg1AdXaSCHCnuiPuVq8dG9W9WUExEJeSeBem?pinataGatewayToken=sd9Ceh-eJIQ43PRB3JW6QGkHAr8-cxGhhjDF0Agxwd_X7N4_reLPQXZSP_vUethU&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
+      'https://suivision.mypinata.cloud/ipfs/QmRPkX43x7hg1AdXaSCHCnuiPuVq8dG9W9WUExEJeSeBem?pinataGatewayToken=XRz-H79S4Su_2PfKu9Ka-W7djbN8b0emIpVtsLxkbnebfobn-IIl-y6Elzyza7p-&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
     featured: true,
   },
   {
@@ -191,7 +191,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     createdAt: new Date('2025-02-08T21:55:30'),
     backgroundUrl: '',
     iconUrl:
-      'https://tradeport.mypinata.cloud/ipfs/QmXn9KuGGfFqLAYr7f5T8z44n8AJaNir7EdpKcaXHwU4iK?pinataGatewayToken=sd9Ceh-eJIQ43PRB3JW6QGkHAr8-cxGhhjDF0Agxwd_X7N4_reLPQXZSP_vUethU&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
+      'https://suivision.mypinata.cloud/ipfs/QmXn9KuGGfFqLAYr7f5T8z44n8AJaNir7EdpKcaXHwU4iK?pinataGatewayToken=XRz-H79S4Su_2PfKu9Ka-W7djbN8b0emIpVtsLxkbnebfobn-IIl-y6Elzyza7p-&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
     featured: false,
   },
 ];
