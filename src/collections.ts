@@ -164,6 +164,21 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
       'https://suivision.mypinata.cloud/ipfs/QmRPkX43x7hg1AdXaSCHCnuiPuVq8dG9W9WUExEJeSeBem?pinataGatewayToken=XRz-H79S4Su_2PfKu9Ka-W7djbN8b0emIpVtsLxkbnebfobn-IIl-y6Elzyza7p-&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
     featured: false,
   },
+  {
+    slug: 'mf-squid-market',
+    tradeportId: '4ebfbf70-c2dc-4d48-b528-7cd31058868b',
+    structType:
+      '0xd2197b1ce2096e96e726c29fa2c138c5c6748da169b81d34927c522b7499f1d7::ika_chan_nft::IkaChanNft',
+    title: 'THE MF SQUID MARKET',
+    description:
+      "Ika-sama's forbidden tentacle harem. Slimy yet satisfying. Yamete kudasai~!",
+    website: 'https://ika.xyz/',
+    createdAt: new Date('2024-03-04T15:26:12'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://cdn.tradeport.xyz/?url=https%3A%2F%2Fika.rhei.finance%2Fimages%2Fmfsquidmarket.webp&transform=s%3A500%3A500%2Fq%3A80%2Ff%3Awebp',
+    featured: false,
+  },
   // {
   //   slug: 'worm',
   //   tradeportId: '5125ec47-6ddd-40f3-bbd2-2f25d4d78730',
