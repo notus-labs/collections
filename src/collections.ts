@@ -147,7 +147,6 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     backgroundUrl: '',
     iconUrl:
       'https://suivision.mypinata.cloud/ipfs/QmRWggLeqkQ7UwFUbduukNkCzSM7bkb6Zu6J1teDnXZCiW?pinataGatewayToken=XRz-H79S4Su_2PfKu9Ka-W7djbN8b0emIpVtsLxkbnebfobn-IIl-y6Elzyza7p-&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
-    featured: true,
   },
   {
     slug: 'uc-esports',
@@ -177,7 +176,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     backgroundUrl: '',
     iconUrl:
       'https://cdn.tradeport.xyz/?url=https%3A%2F%2Fika.rhei.finance%2Fimages%2Fmfsquidmarket.webp&transform=s%3A500%3A500%2Fq%3A80%2Ff%3Awebp',
-    featured: false,
+    featured: true,
   },
   // {
   //   slug: 'worm',
