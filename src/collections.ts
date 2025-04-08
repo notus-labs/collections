@@ -179,6 +179,20 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     featured: false,
   },
   {
+    slug: 'droplet',
+    tradeportId: '9f1fcbb5-82a6-4d50-866f-96a9fc724eb7',
+    structType:
+      '0x17af7effd02b48401da891e682d6bed834b267a2fdb2c9e88ae8de2a76ee9650',
+    title: 'Droplet',
+    description: 'Turning DROPS into treasures!',
+    website: '',
+    createdAt: new Date('2024-12-25T08:02:53'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://cdn.tradeport.xyz/?url=https%3A%2F%2Fnft.7k.ag%2F7k-nft%2Fdroplets%2Ficonic.gif&transform=s%3A500%3A500%2Fq%3A80%2Ff%3Awebp',
+    featured: false,
+  },
+  {
     slug: 'mf-squid-market',
     tradeportId: '4ebfbf70-c2dc-4d48-b528-7cd31058868b',
     structType:
