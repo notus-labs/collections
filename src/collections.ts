@@ -180,7 +180,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
   },
   {
     slug: 'droplet',
-    tradeportId: '9f1fcbb5-82a6-4d50-866f-96a9fc724eb7',
+    tradeportId: 'b5a3bb7d-de9d-4422-87ea-9f97e597297f',
     structType:
       '0x17af7effd02b48401da891e682d6bed834b267a2fdb2c9e88ae8de2a76ee9650',
     title: 'Droplet',
@@ -194,7 +194,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
   },
   {
     slug: 'squid-keys',
-    tradeportId: '9f1fcbb5-82a6-4d50-866f-96a9fc724eb7',
+    tradeportId: '258b2e87-25b6-4918-9ca3-342a2aa502a5',
     structType:
       '0xd2197b1ce2096e96e726c29fa2c138c5c6748da169b81d34927c522b7499f1d7::squid_key::SquidKey',
     title: 'SQUID KEYS',
