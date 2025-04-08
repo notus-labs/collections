@@ -164,6 +164,21 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     featured: false,
   },
   {
+    slug: 'seed_mon',
+    tradeportId: '9f1fcbb5-82a6-4d50-866f-96a9fc724eb7',
+    structType:
+      '0xe71e8e0a201c95c07e62afd6ce58fbaf63d9755a78d06d3bd33b178a2b9a7bf9::nft::Item',
+    title: 'SEED Mon',
+    description:
+      'SEED Mons are virtual companions at the core of the SEED Go - collectible, tradable, and game-enhancing! Each SEED Mon comes with unique abilities, rarity levels, and earning potential. By owning a SEED Mon NFT, you unlock the ability to earn $SLOVE, $SEED, and other valuable gems.',
+    website: 'https://playseedgo.com/webapp',
+    createdAt: new Date('2024-03-20T03:14:24'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://cdn.tradeport.xyz/?url=https%3A%2F%2Ftradeport.mypinata.cloud%2Fipfs%2Fbafybeigww765zr5nsscbt6enc6ptbsttf3h6baznuhkrs44gcytm7zpvvq%3Fimg-width%3D500%26img-height%3D500%26img-fit%3Dcover%26img-quality%3D80%26img-onerror%3Dredirect%26img-fit%3Dpad%26img-format%3Dwebp',
+    featured: false,
+  },
+  {
     slug: 'mf-squid-market',
     tradeportId: '4ebfbf70-c2dc-4d48-b528-7cd31058868b',
     structType:
