@@ -193,6 +193,21 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     featured: false,
   },
   {
+    slug: 'squid-keys',
+    tradeportId: '9f1fcbb5-82a6-4d50-866f-96a9fc724eb7',
+    structType:
+      '0xd2197b1ce2096e96e726c29fa2c138c5c6748da169b81d34927c522b7499f1d7::squid_key::SquidKey',
+    title: 'SQUID KEYS',
+    description:
+      'Lewd artifact of culture. H-scene unlocker. Makes your waifu go kyaaaa~',
+    website: '',
+    createdAt: new Date('2024-03-04T15:26:12'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://cdn.tradeport.xyz/?url=https%3A%2F%2Fika.rhei.finance%2Fimages%2Fsquid-key.webp&transform=s%3A500%3A500%2Fq%3A80%2Ff%3Awebp',
+    featured: false,
+  },
+  {
     slug: 'mf-squid-market',
     tradeportId: '4ebfbf70-c2dc-4d48-b528-7cd31058868b',
     structType:
