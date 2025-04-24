@@ -237,6 +237,21 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
   //   featured: true,
   // },
   {
+    slug: 'mystic-yeti',
+    tradeportId: '2dee0596-42f7-46e7-a197-d40da2991c22',
+    structType:
+      '0xb07b09b016d28f989b6adda8069096da0c0a0ff6490f6e0866858c023b061bee::mystic_yeti::MysticYeti',
+    title: 'Mystic Yetis',
+    description:
+      'Mystic Yetis is a unique collection of hand-crafted digital art that captures the spirit of ancient yetis in the Lofi universe. Each NFT features a distinct, one-of-a-kind yeti character exuding both wisdom and mystery. As part of the Lofi community, you’re not just collecting art - you’re gaining access to an evolving ecosystem of community, collaborations, and experiences.',
+    website: '',
+    createdAt: new Date('2024-04-22T17:14:20'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://cdn.tradeport.xyz/?url=https%3A%2F%2Findexer.mypinata.cloud%2Fipfs%2Fbafkreid6owvnhp2v2muf4yrk4v3hjonhposfgsnd5zirfzgbyutxoasxay%3Fimg-width%3D500%26img-height%3D500%26img-fit%3Dcover%26img-quality%3D80%26img-onerror%3Dredirect%26img-fit%3Dpad%26img-format%3Dwebp',
+    featured: true,
+  },
+  {
     slug: 'suitoshi-panda',
     tradeportId: '6580692d-b655-4bab-b5f5-db1ff687a383',
     structType:
