@@ -244,7 +244,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     title: 'Mystic Yetis',
     description:
       'Mystic Yetis is a unique collection of hand-crafted digital art that captures the spirit of ancient yetis in the Lofi universe. Each NFT features a distinct, one-of-a-kind yeti character exuding both wisdom and mystery. As part of the Lofi community, you’re not just collecting art - you’re gaining access to an evolving ecosystem of community, collaborations, and experiences.',
-    website: '',
+    website: 'https://mysticyetissui.lofitheyeti.com/',
     createdAt: new Date('2024-04-22T17:14:20'),
     backgroundUrl: '',
     iconUrl:
