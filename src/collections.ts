@@ -252,6 +252,21 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     featured: true,
   },
   {
+    slug: 'the-awakening',
+    tradeportId: 'f7710675-d507-4168-8e5b-1c6f5b2b1863',
+    structType:
+      '0x72a78058ee0dbb5565dde9139101f7b2d03d1db9d769b5253985eb1c551fb0ab::awakening::NFT',
+    title: 'The Awakening',
+    description:
+      'The Awakening marks your entry into The Order, a journey from the known to the unknown. Embrace your new identity as you shed the past, stepping into a realm of mystery and transformation. Iter Illuminationis.',
+    website: 'https://theorder.site/',
+    createdAt: new Date('2025-04-24T18:26:47'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://cdn.tradeport.xyz/?url=https%3A%2F%2Fwalrus.tusky.io%2F8nKqvynMC9oxxYPH5jOyOFSgTmIi1HUDn63LHwczu30&transform=s%3A500%3A500%2Fq%3A80%2Ff%3Awebp',
+    featured: true,
+  },
+  {
     slug: 'suitoshi-panda',
     tradeportId: '6580692d-b655-4bab-b5f5-db1ff687a383',
     structType:
