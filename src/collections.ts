@@ -267,6 +267,20 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     featured: true,
   },
   {
+    slug: 'puggies',
+    tradeportId: '4248c650-3899-4fe3-93b6-e2bc60a9a45c',
+    structType:
+      '0x7c02d0be6b6dfaeaf8aeebdf0967cb6f0f5c187c86e3b054e27c195bea30c9b5::puggies::Puggies',
+    title: 'Puggies',
+    description: 'Fun pugs wif hats that never give up.',
+    website: '',
+    createdAt: new Date('2025-05-02T19:36:58'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://cdn.tradeport.xyz/?url=https%3A%2F%2Ftradeport.mypinata.cloud%2Fipfs%2Fbafybeie22nagg3bvb2ap3b4vgxdns4z53i3neuatq36ddmyxk7y652ybji%3Fimg-width%3D500%26img-height%3D500%26img-fit%3Dcover%26img-quality%3D80%26img-onerror%3Dredirect%26img-fit%3Dpad%26img-format%3Dwebp&nocache=1',
+    featured: true,
+  },
+  {
     slug: 'suitoshi-panda',
     tradeportId: '6580692d-b655-4bab-b5f5-db1ff687a383',
     structType:
