@@ -273,7 +273,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
       '0x7c02d0be6b6dfaeaf8aeebdf0967cb6f0f5c187c86e3b054e27c195bea30c9b5::puggies::Puggies',
     title: 'Puggies',
     description: 'Fun pugs wif hats that never give up.',
-    website: '',
+    website: 'https://pugwifsui.com/',
     createdAt: new Date('2025-05-02T19:36:58'),
     backgroundUrl: '',
     iconUrl:
