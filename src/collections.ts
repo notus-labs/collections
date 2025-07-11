@@ -248,7 +248,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     createdAt: new Date('2025-04-22T17:14:20'),
     backgroundUrl: '',
     iconUrl:
-      'https://cdn.tradeport.xyz/?url=https%3A%2F%2Findexer.mypinata.cloud%2Fipfs%2Fbafkreid6owvnhp2v2muf4yrk4v3hjonhposfgsnd5zirfzgbyutxoasxay%3Fimg-width%3D500%26img-height%3D500%26img-fit%3Dcover%26img-quality%3D80%26img-onerror%3Dredirect%26img-fit%3Dpad%26img-format%3Dwebp',
+      'https://indexer.mypinata.cloud/ipfs/bafkreid6owvnhp2v2muf4yrk4v3hjonhposfgsnd5zirfzgbyutxoasxay?img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
     featured: true,
   },
   {
@@ -263,7 +263,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     createdAt: new Date('2025-04-24T18:26:47'),
     backgroundUrl: '',
     iconUrl:
-      'https://cdn.tradeport.xyz/?url=https%3A%2F%2Fwalrus.tusky.io%2F8nKqvynMC9oxxYPH5jOyOFSgTmIi1HUDn63LHwczu30&transform=s%3A500%3A500%2Fq%3A80%2Ff%3Awebp',
+      'https://walrus.tusky.io/8nKqvynMC9oxxYPH5jOyOFSgTmIi1HUDn63LHwczu30',
     featured: true,
   },
   {
@@ -308,6 +308,21 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     backgroundUrl: '',
     iconUrl:
       'https://tradeport.mypinata.cloud/ipfs/QmWh1QmsfXCqJvk558Qw4i2gcCrLgCzdq3eEv9KpFQzffz?pinataGatewayToken=5Uc_j2QFWW75kVPmXB6eWCJ0aVZmc4o9QAq5TiuPfMHZQLKa_VNL3uaXj5NKrq0w&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp&profile=060fe4fb-9a3e-4170-a494-a25e62aba689&mime-type=image',
+    featured: false,
+  },
+  {
+    slug: 'popkins',
+    tradeportId: 'a3334d93-8f63-41df-a4b9-124a4976a170',
+    structType:
+      '0xb908f3c6fea6865d32e2048c520cdfe3b5c5bbcebb658117c41bad70f52b7ccc::popkins_nft::Popkins',
+    title: 'Popkins',
+    description:
+      'Who knew so much chaos could come in such a small package? Popkins are an expansive collection of 25,000 joyful, mischievous critters inhabiting the Claynosaurz Universe—all gas, no brakes!',
+    website: '',
+    createdAt: new Date('2025-06-04T11:57:05'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://walrus.tusky.io/KsYK9AoYOaU2aaEMXx04BVfU_kS5-8wBWNhrsh__pCA',
     featured: false,
   },
 ];
