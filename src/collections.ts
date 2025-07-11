@@ -296,4 +296,18 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
       'https://suivision.mypinata.cloud/ipfs/QmXn9KuGGfFqLAYr7f5T8z44n8AJaNir7EdpKcaXHwU4iK?pinataGatewayToken=XRz-H79S4Su_2PfKu9Ka-W7djbN8b0emIpVtsLxkbnebfobn-IIl-y6Elzyza7p-&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp',
     featured: false,
   },
+  {
+    slug: 'suins',
+    tradeportId: '060fe4fb-9a3e-4170-a494-a25e62aba689',
+    structType:
+      '0xd22b24490e0bae52676651b4f56660a5ff8022a2576e0089f79b3c88d44e08f0::suins_registration::SuinsRegistration',
+    title: 'SuiNS',
+    description: 'SuiNS - Sculpt Your Identity',
+    website: 'https://suins.io',
+    createdAt: new Date('2023-06-14T12:05:47'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://tradeport.mypinata.cloud/ipfs/QmWh1QmsfXCqJvk558Qw4i2gcCrLgCzdq3eEv9KpFQzffz?pinataGatewayToken=5Uc_j2QFWW75kVPmXB6eWCJ0aVZmc4o9QAq5TiuPfMHZQLKa_VNL3uaXj5NKrq0w&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp&profile=060fe4fb-9a3e-4170-a494-a25e62aba689&mime-type=image',
+    featured: false,
+  },
 ];
