@@ -322,7 +322,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     createdAt: new Date('2025-06-04T11:57:05'),
     backgroundUrl: '',
     iconUrl:
-      'https://walrus.tusky.io/KsYK9AoYOaU2aaEMXx04BVfU_kS5-8wBWNhrsh__pCA',
+      'https://walrus.tusky.io/7Jf54ju5p_F78Dc_qJRBClrAa3UgZ_Yaic0v8zXKnaY',
     featured: false,
   },
 ];
