@@ -325,4 +325,18 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
       'https://walrus.tusky.io/7Jf54ju5p_F78Dc_qJRBClrAa3UgZ_Yaic0v8zXKnaY',
     featured: false,
   },
+  {
+    slug: 'doonies',
+    tradeportId: 'c8711a2b-6c54-4bc2-809e-8c18e4965c67',
+    structType:
+      '0x9f48e186b1527bd164960a03f392c14669acfd1ef560fb6138ad0918e6e712a3::doonies::NFT',
+    title: 'Doonies',
+    description: 'Doonies NFTs manufactured by Dead Skull Society #VibesOrDie',
+    website: 'https://doonies.xyz',
+    createdAt: new Date('2025-04-06T04:06:42'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://tradeport.mypinata.cloud/ipfs/bafkreibscwog6huz2pwwbedhrx5lqrzkemtrmfdw5ccu5qfadz6ox6keua?pinataGatewayToken=5Uc_j2QFWW75kVPmXB6eWCJ0aVZmc4o9QAq5TiuPfMHZQLKa_VNL3uaXj5NKrq0w&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp&profile=c8711a2b-6c54-4bc2-809e-8c18e4965c67&mime-type=image',
+    featured: false,
+  },
 ];
