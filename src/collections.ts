@@ -339,4 +339,18 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
       'https://tradeport.mypinata.cloud/ipfs/bafkreibscwog6huz2pwwbedhrx5lqrzkemtrmfdw5ccu5qfadz6ox6keua?pinataGatewayToken=5Uc_j2QFWW75kVPmXB6eWCJ0aVZmc4o9QAq5TiuPfMHZQLKa_VNL3uaXj5NKrq0w&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp&profile=c8711a2b-6c54-4bc2-809e-8c18e4965c67&mime-type=image',
     featured: false,
   },
+  {
+    slug: 'karrier-pigeons',
+    tradeportId: '71bff437-4fa0-4f8b-82cb-a74063270526',
+    structType:
+      '0x6f254f230a24cb74433f0bd0a2da53e2e3fe4ef85a6f89095d987ce7da257e25::pigeons::Pigeons',
+    title: 'Karrier Pigeons',
+    description: 'An Ancient Breed of Karrier Pigeons',
+    website: 'https://x.com/KarrierPigeons',
+    createdAt: new Date('2025-02-14T06:23:26'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://tradeport.mypinata.cloud/ipfs/QmbUWeu1ryJX5aKz8wF3bnoYyabw9A2abCfjDsJVDdJtio/5822.png?pinataGatewayToken=5Uc_j2QFWW75kVPmXB6eWCJ0aVZmc4o9QAq5TiuPfMHZQLKa_VNL3uaXj5NKrq0w&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp&profile=71bff437-4fa0-4f8b-82cb-a74063270526&mime-type=image',
+    featured: false,
+  },
 ];
