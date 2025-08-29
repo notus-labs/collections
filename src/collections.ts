@@ -353,4 +353,19 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
       'https://tradeport.mypinata.cloud/ipfs/QmbUWeu1ryJX5aKz8wF3bnoYyabw9A2abCfjDsJVDdJtio/5822.png?pinataGatewayToken=5Uc_j2QFWW75kVPmXB6eWCJ0aVZmc4o9QAq5TiuPfMHZQLKa_VNL3uaXj5NKrq0w&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp&profile=71bff437-4fa0-4f8b-82cb-a74063270526&mime-type=image',
     featured: false,
   },
+  {
+    slug: 'tallys',
+    tradeportId: '39f29b4d-02ca-4157-a034-2686ee4a0e0f',
+    structType:
+      '0x75888defd3f392d276643932ae204cd85337a5b8f04335f9f912b6291149f423::nft::Tally',
+    title: 'Tallys',
+    description:
+      'Nestled in the wetlands of Lilypad Town, Tallys NFTs grant holders a seat in Tally’s council, guiding the flow of Talus AI Agents on Sui and shaping the future from the water’s edge.',
+    website: 'https://tallys.talus.network/',
+    createdAt: new Date('2025-03-03T17:13:55'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://indexer.mypinata.cloud/ipfs/bafkreifuog7qyfbj4vof6vk7uowseu3gi2xp2uqhwbxan6waab6b6a6cje',
+    featured: false,
+  },
 ];
