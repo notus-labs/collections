@@ -175,7 +175,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     createdAt: new Date('2024-03-20T03:14:24'),
     backgroundUrl: '',
     iconUrl:
-      'https://cdn.tradeport.xyz/?url=https%3A%2F%2Ftradeport.mypinata.cloud%2Fipfs%2Fbafybeigww765zr5nsscbt6enc6ptbsttf3h6baznuhkrs44gcytm7zpvvq%3Fimg-width%3D500%26img-height%3D500%26img-fit%3Dcover%26img-quality%3D80%26img-onerror%3Dredirect%26img-fit%3Dpad%26img-format%3Dwebp',
+      'https://tradeport.mypinata.cloud/ipfs/bafybeigww765zr5nsscbt6enc6ptbsttf3h6baznuhkrs44gcytm7zpvvq?pinataGatewayToken=5Uc_j2QFWW75kVPmXB6eWCJ0aVZmc4o9QAq5TiuPfMHZQLKa_VNL3uaXj5NKrq0w&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp&profile=9f1fcbb5-82a6-4d50-866f-96a9fc724eb7&mime-type=image',
     featured: false,
   },
   {
@@ -188,8 +188,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     website: '',
     createdAt: new Date('2024-12-25T08:02:53'),
     backgroundUrl: '',
-    iconUrl:
-      'https://cdn.tradeport.xyz/?url=https%3A%2F%2Fnft.7k.ag%2F7k-nft%2Fdroplets%2Ficonic.gif&transform=s%3A500%3A500%2Fq%3A80%2Ff%3Awebp',
+    iconUrl: 'https://nft.7k.ag/7k-nft/droplets/iconic.gif',
     featured: false,
   },
   {
@@ -203,8 +202,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     website: '',
     createdAt: new Date('2024-03-04T15:26:12'),
     backgroundUrl: '',
-    iconUrl:
-      'https://cdn.tradeport.xyz/?url=https%3A%2F%2Fika.rhei.finance%2Fimages%2Fsquid-key.webp&transform=s%3A500%3A500%2Fq%3A80%2Ff%3Awebp',
+    iconUrl: 'https://ika.rhei.finance/images/squid-key.webp',
     featured: false,
   },
   {
@@ -218,8 +216,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     website: 'https://ika.xyz/',
     createdAt: new Date('2024-03-04T15:26:12'),
     backgroundUrl: '',
-    iconUrl:
-      'https://cdn.tradeport.xyz/?url=https%3A%2F%2Fika.rhei.finance%2Fimages%2Fmfsquidmarket.webp&transform=s%3A500%3A500%2Fq%3A80%2Ff%3Awebp',
+    iconUrl: 'https://ika.rhei.finance/images/mfsquidmarket.webp',
     featured: true,
   },
   // {
@@ -277,7 +274,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     createdAt: new Date('2025-05-02T19:36:58'),
     backgroundUrl: '',
     iconUrl:
-      'https://cdn.tradeport.xyz/?url=https%3A%2F%2Ftradeport.mypinata.cloud%2Fipfs%2Fbafybeie22nagg3bvb2ap3b4vgxdns4z53i3neuatq36ddmyxk7y652ybji%3Fimg-width%3D500%26img-height%3D500%26img-fit%3Dcover%26img-quality%3D80%26img-onerror%3Dredirect%26img-fit%3Dpad%26img-format%3Dwebp&nocache=1',
+      'https://tradeport.mypinata.cloud/ipfs/bafkreihrfqoqshgrhjgjheg4ur5ef7ksy474htg5nm5o4lq4thdgjam6c4?pinataGatewayToken=5Uc_j2QFWW75kVPmXB6eWCJ0aVZmc4o9QAq5TiuPfMHZQLKa_VNL3uaXj5NKrq0w&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp&profile=4248c650-3899-4fe3-93b6-e2bc60a9a45c&mime-type=image',
     featured: true,
   },
   {
@@ -368,4 +365,76 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
       'https://indexer.mypinata.cloud/ipfs/bafkreifuog7qyfbj4vof6vk7uowseu3gi2xp2uqhwbxan6waab6b6a6cje',
     featured: false,
   },
+  {
+    slug: 'watw',
+    tradeportId: 'c94c9db4-efda-42f1-9b6c-5b83d0340acd',
+    structType:
+      '0x381afb4058a67e5c933ae3b1aceb81a77280b545658488fc234403859b6e3ab9::watw::Watw',
+    title: 'We Are The Walrus',
+    description: '',
+    website: 'https://wearethewalrus.io/',
+    createdAt: new Date('2025-05-17T18:15:06'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://indexer.mypinata.cloud/ipfs/bafkreicqjyklf65cmwkyasxdw7atw3e7qhyvvgp4zkscsn2shipkarmuom',
+    featured: false,
+  },
+  {
+    slug: 'zen-frogs',
+    tradeportId: '80ea5828-5199-426c-bf2f-59569f8e3033',
+    structType:
+      '0xdf87ec097d3791bf30f3cb529816963122a924ab008659458ee6d693ea51e4b8::storage::ZenFrogs',
+    title: 'ZenFrogs',
+    description: 'Lost in the Multiverse Collection.',
+    website: 'https://zenfrogs.com/',
+    createdAt: new Date('2025-07-31T17:40:39'),
+    backgroundUrl: '',
+    iconUrl: 'https://zenfrogs.com/zenfrogs-cover.jpg',
+    featured: false,
+  },
+  {
+    slug: 'bored-toilet-club',
+    tradeportId: 'cde4a2f1-e5cd-435a-8d50-9eaf0bdb1547',
+    structType:
+      '0x57c3c6d40a2f62a8c8c0fa2fa98b021a2425dec17285ad5d91562fa1612433ce::boredtoilet::CLUB',
+    title: 'Bored Toilet Club',
+    description:
+      'Bored Toilet Club — clogged into reality by Toilet Dust on Sui. Where the bored become legendary and the flush is eternal.',
+    website: 'https://www.boredtoilet.club/',
+    createdAt: new Date('2025-02-14T06:23:26'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://tradeport.mypinata.cloud/ipfs/bafkreidalqgmb7sipyg5c7subtx2vtxrhu3btr7hhbbkp32faecwqh3bcq?pinataGatewayToken=5Uc_j2QFWW75kVPmXB6eWCJ0aVZmc4o9QAq5TiuPfMHZQLKa_VNL3uaXj5NKrq0w',
+    featured: false,
+  },
+  {
+    slug: 'beelievers',
+    tradeportId: '6496c047-dcdd-44e2-b8ca-13c27ac0478a',
+    structType:
+      '0x3aeca4699ce5f914b56ee04b8ccd4b2eba1b93cabbab9f1a997735c52ef76253::mint::BeelieverNFT',
+    title: 'Beelievers',
+    description:
+      "BTCFi Beelievers is more than an NFT- it's a movement to make Bitcoin work in DeFi without bridges, wrappers, or custodians. The Beeliever NFT is your badge of conviction, fueling Native's nBTC and BYield on Sui.",
+    website: '',
+    createdAt: new Date('2025-09-06T23:58:49'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://walrus.tusky.io/iMx8H2tjBjgNmQHWOCN8syPBy_RSpIgkvd6gU0QgKxQ',
+    featured: false,
+  },
+  // {
+  //   slug: '',
+  //   tradeportId: '',
+  //   structType:
+  //     '',
+  //   title: '',
+  //   description:
+  //     '',
+  //   website: '',
+  //   createdAt: new Date('2025-02-14T06:23:26'),
+  //   backgroundUrl: '',
+  //   iconUrl:
+  //     '',
+  //   featured: false,
+  // },
 ];

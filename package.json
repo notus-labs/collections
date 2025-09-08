@@ -1,6 +1,6 @@
 {
   "name": "@notus-labs/patara-nft-collections",
-  "version": "1.0.28",
+  "version": "1.0.33",
   "description": "Patara Collections List",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
