@@ -191,20 +191,20 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     iconUrl: 'https://nft.7k.ag/7k-nft/droplets/iconic.gif',
     featured: false,
   },
-  {
-    slug: 'squid-keys',
-    tradeportId: '258b2e87-25b6-4918-9ca3-342a2aa502a5',
-    structType:
-      '0xd2197b1ce2096e96e726c29fa2c138c5c6748da169b81d34927c522b7499f1d7::squid_key::SquidKey',
-    title: 'SQUID KEYS',
-    description:
-      'Lewd artifact of culture. H-scene unlocker. Makes your waifu go kyaaaa~',
-    website: '',
-    createdAt: new Date('2024-03-04T15:26:12'),
-    backgroundUrl: '',
-    iconUrl: 'https://ika.rhei.finance/images/squid-key.webp',
-    featured: false,
-  },
+  // {
+  //   slug: 'squid-keys',
+  //   tradeportId: '258b2e87-25b6-4918-9ca3-342a2aa502a5',
+  //   structType:
+  //     '0xd2197b1ce2096e96e726c29fa2c138c5c6748da169b81d34927c522b7499f1d7::squid_key::SquidKey',
+  //   title: 'SQUID KEYS',
+  //   description:
+  //     'Lewd artifact of culture. H-scene unlocker. Makes your waifu go kyaaaa~',
+  //   website: '',
+  //   createdAt: new Date('2024-03-04T15:26:12'),
+  //   backgroundUrl: '',
+  //   iconUrl: 'https://ika.rhei.finance/images/squid-key.webp',
+  //   featured: false,
+  // },
   {
     slug: 'mf-squid-market',
     tradeportId: '4ebfbf70-c2dc-4d48-b528-7cd31058868b',
@@ -315,7 +315,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     title: 'Popkins',
     description:
       'Who knew so much chaos could come in such a small package? Popkins are an expansive collection of 25,000 joyful, mischievous critters inhabiting the Claynosaurz Universe—all gas, no brakes!',
-    website: '',
+    website: 'https://claynosaurz.com',
     createdAt: new Date('2025-06-04T11:57:05'),
     backgroundUrl: '',
     iconUrl:
@@ -348,6 +348,20 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     backgroundUrl: '',
     iconUrl:
       'https://tradeport.mypinata.cloud/ipfs/QmbUWeu1ryJX5aKz8wF3bnoYyabw9A2abCfjDsJVDdJtio/5822.png?pinataGatewayToken=5Uc_j2QFWW75kVPmXB6eWCJ0aVZmc4o9QAq5TiuPfMHZQLKa_VNL3uaXj5NKrq0w&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp&profile=71bff437-4fa0-4f8b-82cb-a74063270526&mime-type=image',
+    featured: false,
+  },
+  {
+    slug: 'karrier-one-early-adopter',
+    tradeportId: 'b77fc7c3-603e-4de4-98d8-93adda80d133',
+    structType:
+      '0x12673174d35bae6675dfa29d1c7ccdecfd8b3e0b44fcfd3156d3a67b46cf3638::k1_early_rewards_nft::K1EarlyRewardsNFT',
+    title: 'Karrier One Early Adopter',
+    description: 'Karrier One Early Adopter Rewards NFT',
+    website: 'https://www.karrier.one/',
+    createdAt: new Date('2025-01-11T05:11:02'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://assets.karrier.one/kns-early-adopter/early-adopter-nft.png',
     featured: false,
   },
   {
