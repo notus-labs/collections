@@ -436,6 +436,33 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
       'https://walrus.tusky.io/iMx8H2tjBjgNmQHWOCN8syPBy_RSpIgkvd6gU0QgKxQ',
     featured: false,
   },
+  {
+    slug: 'pawtato-land',
+    tradeportId: 'fb51fc70-8263-42a3-8999-6430a7c76fe6',
+    structType:
+      '0x09afb9a1c63a9bbaba650ef0a6b473b9874882cd63aab9570b99274e8f796f00::pawtato::LAND',
+    title: 'Pawtato Land',
+    description:
+      "Sui's first virtual land collection has arrived. Across a new world, unique plots await — untouched and full of potential. Some will build, some will craft, others will forge their own path. The story is just beginning, and it starts with your land.",
+    website: 'https://land.pawtato.app/',
+    createdAt: new Date('2025-06-21T07:31:44'),
+    backgroundUrl: '',
+    iconUrl: 'https://img.pawtato.app/land/_collection/collection.png',
+    featured: false,
+  },
+  {
+    slug: 'pawtato-tools',
+    tradeportId: 'a3103ba1-753a-47ed-8486-67010d0ef8b1',
+    structType:
+      '0x42482d397dd0f1dc8dab9fdf8db9b81a6d4ce9e32597ed522cde660a8773b1a9::pawtato_tools::TOOL',
+    title: 'Pawtato Tools',
+    description: 'Sacred figure symbolizing the Incan goddess of potatoes.',
+    website: 'https://land.pawtato.app/',
+    createdAt: new Date('2025-07-17T19:20:47'),
+    backgroundUrl: '',
+    iconUrl: 'https://img.pawtato.app/land/_tools/Collection.jpg',
+    featured: false,
+  },
   // {
   //   slug: '',
   //   tradeportId: '',
