@@ -463,6 +463,21 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     iconUrl: 'https://img.pawtato.app/land/_tools/Collection.jpg',
     featured: false,
   },
+  {
+    slug: 'capybara-money-bag-mystery',
+    tradeportId: '6a5dda9e-aaa8-4f0e-be53-336ae2121c9c',
+    structType:
+      '0x0844a1ee8c6d3702beb488b342b97c26047270237f36e7244f2172490b4937c0::capybara_money_bag_mystery::Nft',
+    title: 'Capybara Money Bag Mystery',
+    description:
+      'Deep inside the crypto jungle, Capybara found a mysterious Money Bag. One pull of the string — and poof! Phantom ghost came out… along with a rain of golden coins! Unlock your Money Bag. Will it reveal a friendly ghost… or something rarer still?',
+    website: '',
+    createdAt: new Date('2025-09-10T12:39:36'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://walrus.tusky.io/DsjqP4C8SeWkL_WFUPKQ6fPQSVuwscVn-7vjWx2ZMaE',
+    featured: false,
+  },
   // {
   //   slug: '',
   //   tradeportId: '',
