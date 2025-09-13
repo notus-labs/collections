@@ -478,6 +478,21 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
       'https://walrus.tusky.io/DsjqP4C8SeWkL_WFUPKQ6fPQSVuwscVn-7vjWx2ZMaE',
     featured: false,
   },
+  {
+    slug: 'mystemon',
+    tradeportId: '80666377-fa0a-48bd-b613-2fa29a82d471',
+    structType:
+      '0xceed2f9e72e400fe3bad842d0b2e25a2ccbc27db82a5a527b2589c6f5cf64aeb::mystemon::Mystemon',
+    title: 'Mystemon',
+    description:
+      'Mossgloop spends its days merging with the forest floor, its single eye blinking lazily at passing adventurers. Legends say it once tried to eat itself due to entropy confusion!',
+    website: '',
+    createdAt: new Date('2025-08-15T23:15:32'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://tradeport.mypinata.cloud/ipfs/bafkreigfuuhvmvz2xthqmljopo4wu7dd6k3h525djuidpdcklsihfmjr6e?pinataGatewayToken=5Uc_j2QFWW75kVPmXB6eWCJ0aVZmc4o9QAq5TiuPfMHZQLKa_VNL3uaXj5NKrq0w',
+    featured: false,
+  },
   // {
   //   slug: '',
   //   tradeportId: '',
