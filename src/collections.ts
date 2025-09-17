@@ -493,6 +493,21 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
       'https://tradeport.mypinata.cloud/ipfs/bafkreigfuuhvmvz2xthqmljopo4wu7dd6k3h525djuidpdcklsihfmjr6e?pinataGatewayToken=5Uc_j2QFWW75kVPmXB6eWCJ0aVZmc4o9QAq5TiuPfMHZQLKa_VNL3uaXj5NKrq0w',
     featured: false,
   },
+  {
+    slug: 'blub-originals',
+    tradeportId: '9b644093-b1ed-48f5-8378-4867c2795bf0',
+    structType:
+      '0x56e430bc0cc42baa5cc5242d914f2de249b5ffeb7a663dc2079de769d077744b::collection::Blub',
+    title: 'BLUB Originals',
+    description:
+      'BLUB Originals — memes, culture, legends. It all begins with the fish.',
+    website: '',
+    createdAt: new Date('2025-09-16T04:25:27'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://walrus.tusky.io/dCiIXVYfqm-PSayWExTuF29EH8-I2EM7zy6_eivk0JY',
+    featured: false,
+  },
   // {
   //   slug: '',
   //   tradeportId: '',
