@@ -274,7 +274,7 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
     createdAt: new Date('2025-05-02T19:36:58'),
     backgroundUrl: '',
     iconUrl:
-      'https://tradeport.mypinata.cloud/ipfs/bafkreihrfqoqshgrhjgjheg4ur5ef7ksy474htg5nm5o4lq4thdgjam6c4?pinataGatewayToken=5Uc_j2QFWW75kVPmXB6eWCJ0aVZmc4o9QAq5TiuPfMHZQLKa_VNL3uaXj5NKrq0w&img-width=500&img-height=500&img-fit=cover&img-quality=80&img-onerror=redirect&img-fit=pad&img-format=webp&profile=4248c650-3899-4fe3-93b6-e2bc60a9a45c&mime-type=image',
+      'https://tradeport.mypinata.cloud/ipfs/bafkreihrfqoqshgrhjgjheg4ur5ef7ksy474htg5nm5o4lq4thdgjam6c4?pinataGatewayToken=5Uc_j2QFWW75kVPmXB6eWCJ0aVZmc4o9QAq5TiuPfMHZQLKa_VNL3uaXj5NKrq0w',
     featured: true,
   },
   {
