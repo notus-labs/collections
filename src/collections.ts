@@ -508,6 +508,20 @@ export const COLLECTION_LIST: CollectionMetadata[] = [
       'https://walrus.tusky.io/dCiIXVYfqm-PSayWExTuF29EH8-I2EM7zy6_eivk0JY',
     featured: false,
   },
+  {
+    slug: 'misfit',
+    tradeportId: '04b736be-7737-4260-b987-592f6dec35ab',
+    structType:
+      '0x04560201f5ecd809e10466b4b45dd76c577c19f3d9ffae63f64eb8cdc93a501f::misfits::Misfit',
+    title: "Steve's Misfits",
+    description: 'Misfits',
+    website: 'https://www.juststeve.xyz/',
+    createdAt: new Date('2025-05-05T17:12:10'),
+    backgroundUrl: '',
+    iconUrl:
+      'https://indexer.mypinata.cloud/ipfs/bafkreicqralkkiozhul3mpj4ml3bbp6gwv5pgua5szf3rfurmmorbbufau',
+    featured: false,
+  },
   // {
   //   slug: '',
   //   tradeportId: '',
